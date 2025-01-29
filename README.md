@@ -1,5 +1,4 @@
 # Mini Context
-
 This project is a part of the React Course. It demonstrates the use of React Context API in a mini project.
 
 ## Live Demo
